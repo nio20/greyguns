@@ -1,9 +1,0 @@
-﻿License type: PERSONAL
-Product: Construct 2
-Licensed to: Aaron Cathro
-Email: Oracle113322@gmail.com
-Comment: With best wishes from Figgler [mrfiggler@gmail.com]
-Timestamp: 1471633945
-Hash: A209C07E17910FBE22BA7A4EEB587AB9A7BFE9A3A6B2D05
-
-This is PRIVATE license. Please TURN OFF "UPDATE CHECKING" in C2 preferences BEFORE USE!!!
